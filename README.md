@@ -64,17 +64,6 @@ Standard Python Installation (Anaconda)<br />
 Jupyter Notebook<br />
 PowerPoint<br />
 
-ANALYSIS<br />
-Target Cluste<br />r
-Target group would be cluster 1 which has high Spending Score and high income<br />
-60% of cluster 1 shoppers are women. We should look for ways to attract these customers using a market campaign targeting popular items in this cluster<br />
-Cluster 2 presents an interesting opportunity to market to the customers for sales event on popular items.<br />
-
-ANALYSIS
-Target Cluster<br />
-Target group would be cluster 1 which has high Spending Score and high income<br />
-60% of cluster 1 shoppers are women. We should look for ways to attract these customers using a market campaign targeting popular items in this cluster<br />
-Cluster 2 presents an interesting opportunity to market to the customers for sales event on popular items.<br />
 
 
 
